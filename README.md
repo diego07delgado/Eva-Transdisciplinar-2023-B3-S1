@@ -1,11 +1,9 @@
 # Eva-Transdisciplinar-2023-C3-S3
 
-Energía potencial gravitacional-C3-S3
+Energía Potencial Gravitacional-C3-S3
 
-Intengrantes: Diego Delgado, 
+DESCRIPCION:
 
-Descripcion:
+PROGRAMACION:
 
-Programacion:
-
-Conclusiones:
+CONCLUSIONES:
