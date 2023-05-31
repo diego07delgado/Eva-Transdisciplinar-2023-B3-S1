@@ -1,6 +1,6 @@
-# Eva-Transdisciplinar-2023-B3-S1
+# Eva-Transdisciplinar-2023-C3-S3
 
-Energía potencial gravitacional-B3-S1
+Energía potencial gravitacional-C3-S3
 
 Intengrantes: Diego Delgado, 
 
